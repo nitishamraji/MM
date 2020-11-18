@@ -185,3 +185,11 @@ and the repository exists.
 [2020-11-17 21:23:22.729] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
 [2020-11-17 21:23:23.094] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
 [2020-11-17 21:23:46.862] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 21:28:22.728] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:28:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:28:23.342] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:28:49.266] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 21:33:22.728] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:33:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:33:23.055] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:33:50.113] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
