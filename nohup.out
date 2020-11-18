@@ -1,0 +1,187 @@
+
+> magicmirror@2.13.0 start /home/pi/MagicMirror-New/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+/home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron)
+/home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron)
+[2020-11-17 19:22:02.058] [LOG]    Starting MagicMirror: v2.13.0
+[2020-11-17 19:22:02.073] [LOG]    Loading config ...
+[2020-11-17 19:22:02.086] [LOG]    Loading module helpers ...
+[2020-11-17 19:22:02.089] [LOG]    No helper found for module: alert.
+[2020-11-17 19:22:02.196] [LOG]    Initializing new module helper ...
+[2020-11-17 19:22:02.199] [LOG]    Module helper loaded: updatenotification
+[2020-11-17 19:22:02.201] [LOG]    No helper found for module: clock.
+[2020-11-17 19:22:03.162] [LOG]    Initializing new module helper ...
+[2020-11-17 19:22:03.163] [LOG]    Module helper loaded: calendar
+[2020-11-17 19:22:03.165] [LOG]    No helper found for module: compliments.
+[2020-11-17 19:22:03.166] [LOG]    No helper found for module: currentweather.
+[2020-11-17 19:22:03.168] [LOG]    No helper found for module: weatherforecast.
+[2020-11-17 19:22:03.221] [LOG]    Initializing new module helper ...
+[2020-11-17 19:22:03.222] [LOG]    Module helper loaded: newsfeed
+[2020-11-17 19:22:03.223] [LOG]    All module helpers loaded.
+[2020-11-17 19:22:03.486] [LOG]    Starting server on port 8080 ... 
+[2020-11-17 19:22:03.524] [LOG]    Server started ...
+[2020-11-17 19:22:03.526] [LOG]    Connecting socket for: updatenotification
+[2020-11-17 19:22:03.528] [LOG]    Connecting socket for: calendar
+[2020-11-17 19:22:03.531] [LOG]    Starting node helper for: calendar
+[2020-11-17 19:22:03.533] [LOG]    Connecting socket for: newsfeed
+[2020-11-17 19:22:03.536] [LOG]    Starting node helper for: newsfeed
+[2020-11-17 19:22:03.538] [LOG]    Sockets connected & modules started ...
+Fontconfig warning: "/etc/fonts/fonts.conf", line 86: unknown element "blank"
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+[2020-11-17 19:22:03.759] [LOG]    Launching application.
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2020-11-17 19:22:07.533] [LOG]    Create new calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics - Interval: 300000
+[2020-11-17 19:22:07.683] [LOG]    Create new news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+[2020-11-17 19:22:09.274] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:22:09.752] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.13.0 start /home/pi/MagicMirror-New/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+/home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron)
+/home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /home/pi/MagicMirror-New/MagicMirror/node_modules/electron/dist/electron)
+[2020-11-17 19:28:17.957] [LOG]    Starting MagicMirror: v2.13.0
+[2020-11-17 19:28:17.973] [LOG]    Loading config ...
+[2020-11-17 19:28:17.985] [LOG]    Loading module helpers ...
+[2020-11-17 19:28:17.989] [LOG]    No helper found for module: alert.
+[2020-11-17 19:28:18.109] [LOG]    Initializing new module helper ...
+[2020-11-17 19:28:18.111] [LOG]    Module helper loaded: updatenotification
+[2020-11-17 19:28:18.113] [LOG]    No helper found for module: clock.
+[2020-11-17 19:28:19.036] [LOG]    Initializing new module helper ...
+[2020-11-17 19:28:19.038] [LOG]    Module helper loaded: calendar
+[2020-11-17 19:28:19.039] [LOG]    No helper found for module: compliments.
+[2020-11-17 19:28:19.041] [LOG]    No helper found for module: currentweather.
+[2020-11-17 19:28:19.042] [LOG]    No helper found for module: weatherforecast.
+[2020-11-17 19:28:19.092] [LOG]    Initializing new module helper ...
+[2020-11-17 19:28:19.093] [LOG]    Module helper loaded: newsfeed
+[2020-11-17 19:28:19.093] [LOG]    All module helpers loaded.
+[2020-11-17 19:28:19.362] [LOG]    Starting server on port 8080 ... 
+[2020-11-17 19:28:19.392] [LOG]    Server started ...
+[2020-11-17 19:28:19.394] [LOG]    Connecting socket for: updatenotification
+[2020-11-17 19:28:19.396] [LOG]    Connecting socket for: calendar
+[2020-11-17 19:28:19.399] [LOG]    Starting node helper for: calendar
+[2020-11-17 19:28:19.401] [LOG]    Connecting socket for: newsfeed
+[2020-11-17 19:28:19.403] [LOG]    Starting node helper for: newsfeed
+[2020-11-17 19:28:19.404] [LOG]    Sockets connected & modules started ...
+Fontconfig warning: "/etc/fonts/fonts.conf", line 86: unknown element "blank"
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+[2020-11-17 19:28:19.613] [LOG]    Launching application.
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2020-11-17 19:28:23.493] [LOG]    Create new calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics - Interval: 300000
+[2020-11-17 19:28:23.648] [LOG]    Create new news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+[2020-11-17 19:28:25.032] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:28:25.344] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:33:22.726] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 19:33:22.730] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:33:23.124] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:33:26.320] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:38:22.724] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 19:38:22.726] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:38:23.092] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:38:27.330] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:43:22.723] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 19:43:22.725] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:43:23.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:43:28.180] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:48:22.723] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 19:48:22.725] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:48:23.056] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:48:28.973] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:53:22.722] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 19:53:22.726] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:53:23.137] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:53:29.612] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 19:58:22.723] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 19:58:22.725] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:58:24.358] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 19:58:32.297] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:03:22.724] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:03:22.727] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:03:23.063] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:03:32.955] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:08:22.724] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:08:22.727] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:08:23.057] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:08:33.636] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:13:22.725] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:13:22.728] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:13:23.050] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:13:34.328] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:18:22.724] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:18:22.727] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:18:23.130] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:18:34.984] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:23:22.725] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:23:22.728] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:23:23.051] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:23:35.844] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:28:22.725] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:28:22.728] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:28:23.148] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:28:24.054] [ERROR]  fatal: Not a git repository (or any of the parent directories): .git
+
+[2020-11-17 20:28:36.774] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-17 20:33:22.725] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:33:22.728] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:33:23.081] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:33:37.831] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 20:38:22.727] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:38:22.730] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:38:23.117] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:38:24.509] [ERROR]  Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+[2020-11-17 20:38:38.534] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 20:43:22.727] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:43:22.730] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:43:23.069] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:43:39.228] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 20:48:22.728] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:48:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:48:23.166] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:48:24.540] [ERROR]  Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+[2020-11-17 20:48:39.947] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 20:53:22.745] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:53:22.747] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:53:23.074] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:53:40.633] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 20:58:22.729] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 20:58:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:58:23.116] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 20:58:41.353] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 21:03:22.728] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:03:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:03:23.049] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:03:43.623] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 21:08:22.727] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:08:22.729] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:08:23.094] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:08:28.678] [ERROR]  fatal: bad default revision 'HEAD'
+
+[2020-11-17 21:08:44.343] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 21:13:22.728] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:13:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:13:23.076] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:13:45.065] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 21:18:22.727] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:18:22.730] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:18:23.035] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:18:28.121] [ERROR]  fatal: bad default revision 'HEAD'
+
+[2020-11-17 21:18:45.945] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 21:23:22.727] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 21:23:22.729] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:23:23.094] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 21:23:46.862] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
