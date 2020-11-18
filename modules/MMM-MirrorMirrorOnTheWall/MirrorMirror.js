@@ -10,8 +10,8 @@ app.TOPIC_VIDEO = "MagicMirror:new-video"
 // Setup our AWS IoT device and receive messages
 app.setup = function() {
   app.device = awsIot.device({
-    keyPath: __dirname + "/certs/MagicMirror.private.key",
-    certPath: __dirname + "/certs/MagicMirror.cert.pem",
+    keyPath: __dirname + "/certs/MagicMirror-New.private.key",
+    certPath: __dirname + "/certs/MagicMirror-New.cert.pem",
     caPath: __dirname + "/certs/root-CA.crt",
     clientId: "MagicMirror" + (new Date().getTime()),
     region: "us-east-1",
