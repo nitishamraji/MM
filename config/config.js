@@ -127,7 +127,7 @@ var config = {
 			config: {
 				// See 'Configuration options' in README.md for more information.
 				video_id: "oGneAab3e88",
-				loop: true
+				loop: false
 			}
 		},
 		{

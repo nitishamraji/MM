@@ -35,10 +35,12 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       var hide = MM.getModules();
             
       hide.enumerate(function(module) {
-         module.hide();
+        if( module.name.contains("Gmail") ) {
+          module.hide();
+        }
       });
 
-      this.updateDom();
+      //this.updateDom();
 
       
 
@@ -98,23 +100,25 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     }
 
     if (this.result && !this.clear) {
+      
       if (this.result.images) {
-        var row = document.createElement("div")
-        row.className = "row"
-
-        for (var i = 0; i < this.result.images.length; i++) {
-          var img = document.createElement("img");
-          img.src = this.result.images[i].url
-          row.appendChild(img)
-        }
-        wrapper.appendChild(row)
+        console.log("testing frameeee");
+        var row = document.createElement("div");
+        row.className = "imgFrame";
+        row.setAttribute('id', 'imgFrame');
+        var oImg = document.createElement("img");
+        oImg.setAttribute('src', 'modules/test/nit_kav.jpg');
+        oImg.setAttribute('height', '1920');
+        oImg.setAttribute('width', '1080');
+        row.appendChild(oImg);
+        wrapper.appendChild(row);
       }
 
       if (this.result.videoId) {
         var videoWrapper = document.createElement("div")
         videoWrapper.className = "videoWrapper"
         var iframe = document.createElement('iframe')
-        iframe.src = "https://www.youtube.com/embed/" + this.result.videoId + "?autoplay=1&controls=0"
+        iframe.src = "https://www.youtube.com/embed/" + "oGneAab3e88" + "?autoplay=1&controls=0"
         videoWrapper.appendChild(iframe)
         wrapper.appendChild(videoWrapper)
       }
