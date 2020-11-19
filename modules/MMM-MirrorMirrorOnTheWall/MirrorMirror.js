@@ -41,6 +41,9 @@ app.setup = function() {
 
   // Listeners
   app.device.on("message", function(topic, payload) {
+
+    console.log("received topic: " + topic);
+
     var JSONpayload = JSON.parse(payload.toString());
 
     // If successfull, let's let our application know

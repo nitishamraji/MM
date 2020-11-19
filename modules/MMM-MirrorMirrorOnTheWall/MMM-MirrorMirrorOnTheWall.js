@@ -64,6 +64,13 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
   getDom: function() {
     wrapper = document.createElement("div");
     wrapper.className = 'thin large bright';
+   
+    var oImg = document.createElement("img");
+		oImg.setAttribute('src', 'modules/test/nit_kav.jpg');
+		oImg.setAttribute('height', '1920');
+		oImg.setAttribute('width', '1080');
+
+		wrapper.appendChild(oImg);
 
     if (this.result && !this.clear) {
       if (this.result.images) {
