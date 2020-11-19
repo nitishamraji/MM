@@ -65,12 +65,26 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     wrapper = document.createElement("div");
     wrapper.className = 'thin large bright';
    
-    var oImg = document.createElement("img");
-		oImg.setAttribute('src', 'modules/test/nit_kav.jpg');
-		oImg.setAttribute('height', '1920');
-		oImg.setAttribute('width', '1080');
-
-		wrapper.appendChild(oImg);
+    if( this.clear )
+    {
+        var row = document.createElement("div");
+        row.className = "imgFrame";
+        row.setAttribute('id', 'imgFrame');
+        var oImg = document.createElement("img");
+        oImg.setAttribute('src', 'modules/test/nit_kav.jpg');
+        oImg.setAttribute('height', '1920');
+        oImg.setAttribute('width', '1080');
+        row.appendChild(oImg);
+        wrapper.appendChild(row);
+    }
+    else
+    {
+      var elem = document.getElementById("imgFrame");
+      if( elem )
+      {
+        elem.remove();
+      }
+    }
 
     if (this.result && !this.clear) {
       if (this.result.images) {
