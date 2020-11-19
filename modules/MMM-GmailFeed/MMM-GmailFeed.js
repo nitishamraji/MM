@@ -17,14 +17,16 @@ Module.register("MMM-GmailFeed", {
 
 	start: function () {
 		this.getJson();
-		this.scheduleUpdate();
+		//this.scheduleUpdate();
 	},
 
 	scheduleUpdate: function () {
+		/**
 		var self = this;
 		setInterval(function () {
 			self.getJson();
 		}, this.config.updateInterval);
+		**/
 	},
 
 	// Define required scripts.
