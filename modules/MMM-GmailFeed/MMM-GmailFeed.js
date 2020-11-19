@@ -79,7 +79,9 @@ Module.register("MMM-GmailFeed", {
 	// Override dom generator.
 	getDom: function () {
 
+		var wrapper = document.createElement("div");
 		var table = document.createElement("table");
+		wrapper.appendChild(table);
 
 		table.classList.add("mailtable");
 		if (this.errorData) {
@@ -120,7 +122,7 @@ Module.register("MMM-GmailFeed", {
 			table.appendChild(row);
 		});
 
-		return table;
+		return wrapper;
 	},
 
 	getTableRow: function (jsonObject) {
