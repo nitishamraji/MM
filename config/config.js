@@ -135,7 +135,7 @@ var config = {
 			position: 'middle_center',
 			config: {
 				username: 'kavyavj15@gmail.com',
-				password: 'Nitkav@152017',
+				password: 'utxyxeanzbmtcgmg',
 				updateInterval: 60000,
 				maxEmails: 5,
 				maxSubjectLength: 38,
