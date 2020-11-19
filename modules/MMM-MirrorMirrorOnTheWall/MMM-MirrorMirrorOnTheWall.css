@@ -41,7 +41,7 @@
   border: none;
 }
 
-.imgFrame {
+#imgFrame {
     position: absolute;
     top: 0;
     left: -10px;
