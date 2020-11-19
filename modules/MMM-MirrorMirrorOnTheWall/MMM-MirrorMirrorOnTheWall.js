@@ -12,7 +12,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
   defaults: {},
 
   start: function() {
-    Log.info('Starting module: ' + this.name);
+    Log.info('Startingggggggggg module: ' + this.name);
     this.clear = false
     this.sendSocketNotification('ALEXA_START', {});
   },

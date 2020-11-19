@@ -241,3 +241,1043 @@ and the repository exists.
 [2020-11-17 22:33:22.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
 [2020-11-17 22:33:23.054] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
 [2020-11-17 22:34:01.011] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 22:38:22.724] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 22:38:22.726] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:38:23.071] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:39:01.705] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 22:43:22.726] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 22:43:22.729] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:43:23.041] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:44:02.425] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 22:48:22.727] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 22:48:22.730] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:48:23.161] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:49:03.123] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 22:53:22.726] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 22:53:22.729] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:53:23.073] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:54:03.772] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+/proc/self/exe: /lib/arm-linux-gnueabihf/libdbus-1.so.3: no version information available (required by /proc/self/exe)
+[2020-11-17 22:58:23.431] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 22:59:04.483] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 23:03:23.770] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:04:05.199] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:08:24.049] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:09:05.901] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:11:00.103] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:11:00.104] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:11:00.433] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:11:00.452] [LOG]    Use existing news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[2020-11-17 23:11:00.454] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:11:01.607] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:15:59.330] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:15:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:15:59.674] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:16:02.843] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-17 23:20:59.327] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:20:59.329] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:20:59.629] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:21:03.866] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:25:59.326] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:25:59.328] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:25:59.668] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:26:04.541] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:30:59.327] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:30:59.328] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:30:59.664] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:31:05.256] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:35:59.326] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:35:59.328] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:35:59.691] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:36:06.091] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 23:40:59.327] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:40:59.329] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:40:59.756] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:41:06.926] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-17 23:45:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:45:59.327] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:45:59.684] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:46:07.641] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-17 23:50:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:50:59.327] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:50:59.640] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:51:08.322] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-17 23:55:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-17 23:55:59.327] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:55:59.654] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-17 23:56:09.002] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:00:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:00:59.327] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:00:59.746] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:01:09.785] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 00:05:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:05:59.326] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:05:59.838] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:06:10.472] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:10:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:10:59.327] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:10:59.758] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:11:11.500] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:15:59.325] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:15:59.328] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:15:59.654] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:16:12.405] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:20:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:20:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:20:59.669] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:21:13.353] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 00:25:59.326] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:25:59.329] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:25:59.707] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:26:14.109] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:30:59.348] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:30:59.349] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:30:59.747] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:31:14.777] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:35:59.327] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:35:59.330] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:35:59.654] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:36:15.485] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 00:40:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:40:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:40:59.681] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:41:16.243] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 00:45:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:45:59.332] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:45:59.676] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:46:16.950] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 00:50:59.330] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:50:59.332] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:50:59.672] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:51:17.659] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 00:55:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 00:55:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:55:59.665] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 00:56:18.384] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:00:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:00:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:00:59.667] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:01:19.063] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 01:05:59.327] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:05:59.330] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:05:59.663] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:06:19.741] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:10:59.332] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:10:59.334] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:10:59.653] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:11:20.412] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:15:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:15:59.337] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:15:59.692] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:16:21.396] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:20:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:20:59.332] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:20:59.706] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:21:22.562] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 01:25:59.327] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:25:59.330] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:25:59.635] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:26:23.454] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:30:59.328] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:30:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:31:01.027] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:31:25.221] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 01:35:59.328] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:35:59.331] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:36:01.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:36:26.885] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:40:59.329] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:40:59.332] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:40:59.672] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:41:27.585] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:45:59.330] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:45:59.332] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:45:59.670] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:46:28.361] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 01:50:59.971] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:51:29.047] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:52:05.190] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:52:05.196] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:52:05.555] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:52:05.586] [LOG]    Use existing news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[2020-11-18 01:52:05.591] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:52:06.486] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 01:57:04.554] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 01:57:04.557] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:57:04.870] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 01:57:07.545] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 02:02:04.552] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:02:04.555] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:02:04.934] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:02:08.642] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 02:07:04.551] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:07:04.554] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:07:04.924] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:07:09.289] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 02:12:04.557] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:12:04.559] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:12:04.915] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:12:10.029] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 02:17:04.552] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:17:04.554] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:17:06.787] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:17:11.897] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 02:22:04.552] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:22:04.555] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:22:04.897] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:22:12.586] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 02:27:04.552] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:27:04.555] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:27:04.950] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:27:13.330] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 02:32:04.552] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:32:04.554] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:32:04.889] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:32:13.990] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 02:37:04.552] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:37:04.554] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:37:04.905] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:37:14.685] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 02:42:04.551] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:42:04.553] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:42:04.864] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:42:15.338] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 02:47:04.550] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:47:04.552] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:47:04.908] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:47:16.249] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 02:52:04.555] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:52:04.557] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:52:04.930] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:52:18.308] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 02:57:04.549] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:57:04.551] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:57:04.851] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:57:18.984] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 02:58:26.915] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 02:58:26.916] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 02:58:27.055] [LOG]    Use existing news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[2020-11-18 02:58:27.056] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 02:58:28.704] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 02:58:28.933] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:03:26.212] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:03:26.213] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:03:26.558] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:03:29.846] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 03:08:26.221] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:08:26.238] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:08:26.697] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:08:30.853] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 03:13:26.211] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:13:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:13:26.502] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:13:31.537] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 03:18:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:18:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:18:26.757] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:18:32.186] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 03:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:23:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:23:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:23:32.866] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 03:28:26.216] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:28:26.219] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:28:26.610] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:28:33.559] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 03:33:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:33:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:33:26.529] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:33:34.280] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 03:38:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:38:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:38:28.189] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:38:37.455] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 03:43:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:43:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:43:26.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:43:38.423] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 03:48:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:48:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:48:26.592] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:48:39.321] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 03:53:26.228] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:53:26.231] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:53:26.575] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:53:40.203] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 03:58:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 03:58:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:58:26.537] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 03:58:40.839] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 04:03:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:03:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:03:26.731] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:03:41.516] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 04:08:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:08:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:08:26.533] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:08:42.203] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 04:13:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:13:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:13:26.502] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:13:42.907] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 04:18:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:18:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:18:26.568] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:18:43.604] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 04:23:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:23:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:23:26.739] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:23:44.304] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 04:28:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:28:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:28:26.539] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:28:44.949] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 04:33:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:33:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:33:26.535] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:33:45.642] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 04:38:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:38:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:38:26.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:38:46.356] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 04:43:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:43:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:43:26.718] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:43:47.031] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 04:48:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:48:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:48:26.565] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:48:47.823] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 04:53:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:53:26.217] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:53:26.560] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:53:48.730] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 04:58:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 04:58:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:58:26.546] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 04:58:49.689] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 05:03:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:03:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:03:26.595] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:03:50.671] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 05:08:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:08:26.217] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:08:26.519] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:08:51.339] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 05:13:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:13:26.217] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:13:26.700] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:13:52.125] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 05:18:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:18:26.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:18:26.756] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:18:52.926] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 05:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:23:26.217] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:23:26.752] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:23:53.612] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 05:28:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:28:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:28:26.898] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:28:54.288] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 05:33:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:33:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:33:26.537] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:33:54.968] [INFO]   Newsfeed-Fetcher: Broadcasting 57 items.
+[2020-11-18 05:38:26.210] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:38:26.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:38:26.727] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:38:55.750] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 05:43:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:43:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:43:26.534] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:43:56.508] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 05:48:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:48:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:48:26.542] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:48:57.312] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 05:53:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:53:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:53:26.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:53:58.303] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 05:58:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 05:58:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:58:26.539] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 05:58:59.379] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:03:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:03:26.213] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:03:26.527] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:04:00.498] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 06:08:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:08:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:08:26.518] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:09:01.170] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 06:13:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:13:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:13:26.489] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:14:01.794] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:18:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:18:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:18:26.514] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:19:02.469] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:23:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:23:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:23:26.512] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:24:03.169] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:28:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:28:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:28:26.510] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:29:03.835] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:33:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:33:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:33:26.514] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:34:04.499] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 06:38:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:38:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:38:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:39:05.178] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:43:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:43:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:43:26.518] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:44:05.841] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:48:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:48:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:48:26.491] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:49:06.503] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 06:53:26.216] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:53:26.223] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:53:26.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:54:07.249] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 06:58:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 06:58:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:58:26.509] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 06:59:08.049] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 07:03:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:03:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:03:26.530] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:04:08.946] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 07:08:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:08:26.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:08:26.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:09:09.739] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 07:13:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:13:26.213] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:13:26.534] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:14:10.493] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 07:18:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:18:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:18:26.532] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:19:11.157] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 07:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:23:26.217] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:23:26.522] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:24:11.806] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 07:28:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:28:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:28:26.537] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:29:12.481] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 07:33:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:33:26.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:33:26.508] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:34:13.183] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 07:38:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:38:26.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:38:26.504] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:39:13.857] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 07:43:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:43:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:43:26.552] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:44:14.526] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 07:48:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:48:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:48:26.504] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:49:15.254] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 07:53:26.210] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:53:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:53:26.500] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:54:15.936] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 07:58:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 07:58:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:58:26.514] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 07:59:16.590] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 08:03:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:03:26.217] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:03:26.554] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:04:17.275] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 08:08:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:08:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:08:26.511] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:09:18.159] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 08:13:26.212] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:13:26.220] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:13:26.574] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:14:19.000] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 08:18:26.210] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:18:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:18:26.530] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:19:19.938] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 08:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:23:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:23:26.498] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:24:20.765] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 08:28:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:28:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:28:26.524] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:29:21.461] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 08:33:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:33:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:33:26.557] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:34:22.142] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 08:38:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:38:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:38:26.527] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:39:22.824] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 08:43:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:43:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:43:26.511] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:44:23.512] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 08:48:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:48:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:48:26.529] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:49:24.209] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 08:53:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:53:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:53:26.539] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:54:24.892] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 08:58:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 08:58:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:58:26.576] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 08:59:25.639] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:03:26.201] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:03:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:03:26.531] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:04:26.507] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 09:08:26.201] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:08:26.203] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:08:26.511] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:09:27.449] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:13:26.202] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:13:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:13:26.512] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:14:28.679] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:18:26.201] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:18:26.202] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:18:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:19:29.888] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:23:26.213] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:23:26.228] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:23:26.513] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:24:30.766] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:28:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:28:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:28:26.521] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:29:31.472] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:33:26.201] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:33:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:33:26.502] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:34:32.210] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 09:38:26.285] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:38:26.297] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:38:26.597] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:39:32.901] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:43:26.359] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:43:26.366] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:43:26.667] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:44:33.565] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 09:48:26.427] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:48:26.432] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:48:26.709] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:49:34.255] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:53:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:53:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:53:26.699] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:54:34.941] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 09:58:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 09:58:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:58:26.707] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 09:59:35.627] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:03:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:03:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:03:26.732] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:04:36.333] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:08:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:08:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:08:26.681] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:09:36.996] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 10:13:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:13:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:13:26.730] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:14:37.697] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 10:18:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:18:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:18:26.693] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:19:38.510] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:23:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:23:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:23:26.530] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:24:39.319] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 10:28:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:28:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:28:26.539] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:29:40.104] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:33:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:33:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:33:26.518] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:34:40.730] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 10:38:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:38:26.216] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:38:26.542] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:39:41.417] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:43:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:43:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:43:26.550] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:44:42.089] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:48:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:48:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:48:27.480] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:49:42.739] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 10:53:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:53:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:53:26.503] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:54:43.453] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 10:58:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 10:58:26.213] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:58:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 10:59:44.148] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 11:03:26.210] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:03:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:03:26.505] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:04:44.824] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 11:08:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:08:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:08:26.508] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:09:45.544] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 11:13:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:13:26.213] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:13:26.521] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:14:46.244] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 11:18:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:18:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:18:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:19:46.935] [INFO]   Newsfeed-Fetcher: Broadcasting 66 items.
+[2020-11-18 11:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:23:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:23:26.525] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:24:47.725] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 11:28:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:28:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:28:26.523] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:29:48.571] [INFO]   Newsfeed-Fetcher: Broadcasting 67 items.
+[2020-11-18 11:33:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:33:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:33:26.504] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:34:49.439] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 11:38:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:38:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:38:26.541] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:39:50.263] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 11:43:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:43:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:43:26.501] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:44:51.140] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 11:48:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:48:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:48:26.513] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:49:51.772] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 11:53:26.239] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:53:26.251] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:53:26.574] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:54:52.472] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 11:58:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 11:58:26.215] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:58:26.532] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 11:59:53.155] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 12:03:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:03:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:03:26.546] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:04:53.830] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 12:08:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:08:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:08:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:09:54.556] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 12:13:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:13:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:13:26.551] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:14:55.243] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 12:18:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:18:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:18:26.534] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:19:55.956] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 12:23:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:23:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:23:26.534] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:24:56.835] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 12:28:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:28:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:28:26.522] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:29:57.857] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 12:33:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:33:26.213] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:33:26.547] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:34:59.059] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 12:38:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:38:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:38:26.544] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:40:00.210] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 12:43:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:43:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:43:26.502] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:45:00.853] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 12:48:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:48:26.214] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:48:26.548] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:50:01.549] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 12:53:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:53:26.218] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:53:26.532] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:55:02.270] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 12:58:26.210] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 12:58:26.219] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 12:58:26.537] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:00:02.958] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:03:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:03:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:03:26.536] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:05:03.611] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 13:08:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:08:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:08:26.553] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:10:04.310] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:13:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:13:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:13:26.529] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:15:04.977] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:18:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:18:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:18:26.548] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:20:05.620] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 13:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:23:26.212] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:23:26.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:25:06.319] [INFO]   Newsfeed-Fetcher: Broadcasting 65 items.
+[2020-11-18 13:28:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:28:26.222] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:28:26.524] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:30:06.996] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:33:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:33:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:33:26.519] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:35:07.794] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:38:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:38:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:38:26.624] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:40:08.640] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:43:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:43:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:43:26.505] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:45:09.525] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:48:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:48:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:48:26.491] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:50:10.330] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 13:53:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:53:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:53:26.522] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:55:10.961] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 13:58:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 13:58:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 13:58:26.571] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:00:11.615] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:03:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:03:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:03:26.516] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:05:12.288] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 14:08:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:08:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:08:26.520] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:10:12.969] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:13:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:13:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:13:26.537] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:15:13.695] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:18:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:18:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:18:26.513] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:20:14.330] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 14:23:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:23:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:23:26.555] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:25:15.036] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 14:28:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:28:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:28:26.857] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:30:15.676] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:33:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:33:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:33:26.512] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:35:16.330] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:38:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:38:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:38:26.505] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:40:16.972] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 14:43:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:43:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:43:26.521] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:45:17.699] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:48:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:48:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:48:26.720] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:50:18.454] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:53:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:53:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:53:26.538] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:55:19.264] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 14:58:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 14:58:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 14:58:26.559] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:00:21.949] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 15:03:26.209] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:03:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:03:26.508] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:05:22.739] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 15:08:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:08:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:08:29.577] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:10:23.445] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 15:13:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:13:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:13:28.294] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:15:25.904] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 15:18:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:18:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:18:29.827] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:20:27.482] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 15:23:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:23:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:23:26.520] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:25:29.825] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 15:28:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:28:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:28:27.025] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:30:30.673] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 15:33:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:33:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:33:28.122] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:35:31.349] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 15:38:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:38:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:38:26.578] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:40:32.053] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 15:43:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:43:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:43:27.193] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:45:32.696] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 15:48:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:48:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:48:26.510] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:50:33.540] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 15:53:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:53:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:53:28.423] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:55:35.619] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 15:58:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 15:58:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 15:58:29.703] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:00:37.436] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 16:03:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:03:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:03:28.803] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:05:40.166] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:08:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:08:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:08:26.513] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:10:40.790] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 16:13:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:13:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:13:29.769] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:15:41.476] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:18:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:18:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:18:26.505] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:20:43.927] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 16:23:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:23:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:23:29.932] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:25:46.655] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:28:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:28:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:28:26.500] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:30:49.348] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:33:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:33:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:33:26.697] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:35:50.388] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:38:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:38:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:38:26.543] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:40:51.006] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:43:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:43:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:43:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:45:51.808] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:48:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:48:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:48:26.530] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:50:52.453] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 16:53:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:53:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:53:26.537] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:55:53.148] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 16:58:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 16:58:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 16:58:26.514] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:00:53.810] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 17:03:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:03:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:03:26.505] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:05:54.491] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 17:08:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:08:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:08:26.524] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:10:55.126] [INFO]   Newsfeed-Fetcher: Broadcasting 59 items.
+[2020-11-18 17:13:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:13:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:13:26.500] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:15:55.825] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 17:18:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:18:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:18:26.479] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:20:56.678] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 17:23:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:23:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:23:26.527] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:25:57.593] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 17:28:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:28:26.206] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:28:26.511] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:30:58.763] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 17:33:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:33:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:33:26.490] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:35:59.946] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 17:38:26.202] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:38:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:38:26.512] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:41:00.756] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 17:43:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:43:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:43:26.502] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:46:01.425] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 17:48:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:48:26.204] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:48:26.520] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:51:02.097] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 17:53:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:53:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:53:26.553] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:56:02.788] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 17:58:26.203] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 17:58:26.205] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 17:58:26.552] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:01:03.480] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:03:26.204] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:03:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:03:26.770] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:06:04.320] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 18:08:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:08:26.207] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:08:26.503] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:11:05.173] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:13:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:13:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:13:26.655] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:16:05.833] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:18:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:18:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:18:26.536] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:21:06.550] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 18:23:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:23:26.211] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:23:26.531] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:26:07.221] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:28:26.208] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:28:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:28:26.509] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:31:08.020] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 18:33:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:33:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:33:26.504] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:36:08.893] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 18:38:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:38:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:38:26.534] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:41:09.766] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 18:43:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:43:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:43:26.501] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:46:10.514] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:48:26.207] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:48:26.210] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:48:26.572] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:51:11.203] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:53:26.205] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:53:26.208] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:53:26.534] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:56:11.903] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 18:58:26.206] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 18:58:26.209] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 18:58:26.526] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:01:12.599] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 19:03:26.872] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:04:12.736] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:04:12.740] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:04:12.774] [LOG]    Use existing news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[2020-11-18 19:04:12.776] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 19:04:13.764] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 19:04:13.954] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:09:12.133] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:09:12.136] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:09:12.457] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:09:14.863] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 19:14:12.128] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:14:12.130] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:14:12.482] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:14:15.931] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 19:19:12.130] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:19:12.132] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:19:12.485] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:19:16.746] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 19:24:12.861] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:24:17.409] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 19:28:53.173] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:28:53.177] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:28:53.246] [LOG]    Use existing news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[2020-11-18 19:28:53.248] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.
+[2020-11-18 19:28:54.376] [INFO]   Newsfeed-Fetcher: Broadcasting 64 items.
+[2020-11-18 19:28:54.515] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:33:52.544] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:33:52.545] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:33:52.858] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:33:55.540] [INFO]   Newsfeed-Fetcher: Broadcasting 62 items.
+[2020-11-18 19:38:52.541] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:38:52.543] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:38:52.886] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:38:56.797] [INFO]   Newsfeed-Fetcher: Broadcasting 60 items.
+[2020-11-18 19:43:52.541] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:43:52.544] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:43:52.896] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:43:57.408] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 19:46:32.689] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:46:32.692] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:46:32.812] [LOG]    Use existing news fetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[2020-11-18 19:46:32.813] [INFO]   Newsfeed-Fetcher: Broadcasting 58 items.
+[2020-11-18 19:46:33.897] [INFO]   Newsfeed-Fetcher: Broadcasting 63 items.
+[2020-11-18 19:46:34.030] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:51:32.075] [LOG]    Use existing calendar fetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[2020-11-18 19:51:32.076] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:51:32.391] [INFO]   Calendar-Fetcher: Broadcasting 2 events.
+[2020-11-18 19:51:35.019] [INFO]   Newsfeed-Fetcher: Broadcasting 61 items.

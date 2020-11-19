@@ -7,14 +7,15 @@ app.TOPIC_TEXT = "MagicMirror:new-text"
 app.TOPIC_MODULE = "MagicMirror:change-module"
 app.TOPIC_VIDEO = "MagicMirror:new-video"
 
+var main_dir = "/home/pi/MagicMirror-New/MagicMirror/modules/MMM-MirrorMirrorOnTheWall";
+
 // Setup our AWS IoT device and receive messages
 app.setup = function() {
   app.device = awsIot.device({
-    keyPath: __dirname + "/certs/MagicMirror-New.private.key",
-    certPath: __dirname + "/certs/MagicMirror-New.cert.pem",
-    caPath: __dirname + "/certs/root-CA.crt",
+    keyPath: main_dir + "/certs/MagicMirror-New.private.key",
+    certPath: main_dir + "/certs/MagicMirror-New.cert.pem",
+    caPath: main_dir + "/certs/root-CA.crt",
     clientId: "MagicMirror" + (new Date().getTime()),
-    region: "us-east-1",
     host: "a2b4djvaxueean-ats.iot.us-east-1.amazonaws.com",
   });
 
