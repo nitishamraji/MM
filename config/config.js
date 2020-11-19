@@ -121,12 +121,26 @@ var config = {
 		    }
 		},
 		{
+			disabled: true,
 			module: "MMM-EmbedYoutube", // Path to youtube module from modules folder Exmaple: MagicMirror/modules/custom/MMM-EmbedYoutube/ so it's custom/MMM-EmbedYoutube
 			position: "middle_center",	// This can be any of the regions.
 			config: {
 				// See 'Configuration options' in README.md for more information.
 				video_id: "oGneAab3e88",
 				loop: true
+			}
+		},
+		{
+			module: 'MMM-GmailFeed',
+			position: 'middle_center',
+			config: {
+				username: 'kavyavj15@gmail.com',
+				password: 'Nitkav@152017',
+				updateInterval: 60000,
+				maxEmails: 5,
+				maxSubjectLength: 38,
+				maxFromLength: 15,
+				playSound: true
 			}
 		}
 	]
