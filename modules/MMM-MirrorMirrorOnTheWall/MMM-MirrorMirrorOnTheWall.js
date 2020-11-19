@@ -36,9 +36,9 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
             
       hide.enumerate(function(module) {
         console.log("enumerate through module: " + module.name);
-        if( module.name.contains("Gmail") ) {
-          module.hide();
-        }
+        // if( module.name.contains("Gmail") ) {
+        //   module.hide();
+        // }
       });
 
       this.updateDom();

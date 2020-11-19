@@ -132,7 +132,7 @@ var config = {
 		},
 		{
 			module: 'MMM-GmailFeed',
-			position: 'middle_center',
+			position: 'bottom_bar',
 			config: {
 				username: 'kavyavj15@gmail.com',
 				password: 'utxyxeanzbmtcgmg',
