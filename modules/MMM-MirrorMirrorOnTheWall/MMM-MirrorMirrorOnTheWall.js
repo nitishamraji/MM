@@ -12,7 +12,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
   defaults: {},
 
   start: function() {
-    Log.info('Startingggggggggg module: ' + this.name);
+    console.log('Startingggggggggg module: ' + this.name);
     this.clear = false
     this.sendSocketNotification('ALEXA_START', {});
   },
@@ -26,7 +26,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
 
   // Override socket notification handler.
   socketNotificationReceived: function(notification, payload) {
-    Log.info(this.name + "received a socket notification:\n" + notification);
+    console.log(this.name + "received a socket notification:\n" + notification);
 
     if (notification === "RESULT") {
       this.clear = false

@@ -8,6 +8,8 @@ module.exports = NodeHelper.create({
   alexa_start: function() {
     var self = this
 
+    console.log( "alexa_start: before iot setup" );
+
     // Setup AWS IoT
     MirrorMirror.setup();
 
@@ -31,6 +33,9 @@ module.exports = NodeHelper.create({
 
   // Subclass socketNotificationReceived received.
   socketNotificationReceived: function(notification, payload) {
+
+    console.log( "alexa_start notification received: " + notification ); 
+
     if (notification === 'ALEXA_START') {
       this.alexa_start();
     }
