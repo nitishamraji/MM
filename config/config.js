@@ -119,6 +119,15 @@ var config = {
 		        // apiKey: "", // Optional, See API/README.md for details
 		        // classes: {} // Optional, See "Custom Classes" below
 		    }
+		},
+		{
+			module: "MMM-EmbedYoutube", // Path to youtube module from modules folder Exmaple: MagicMirror/modules/custom/MMM-EmbedYoutube/ so it's custom/MMM-EmbedYoutube
+			position: "middle_center",	// This can be any of the regions.
+			config: {
+				// See 'Configuration options' in README.md for more information.
+				video_id: "oGneAab3e88",
+				loop: true
+			}
 		}
 	]
 };
