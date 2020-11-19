@@ -136,11 +136,10 @@ var config = {
 			config: {
 				username: 'kavyavj15@gmail.com',
 				password: 'utxyxeanzbmtcgmg',
-				updateInterval: 60000,
 				maxEmails: 5,
 				maxSubjectLength: 38,
 				maxFromLength: 15,
-				playSound: true
+				playSound: false
 			}
 		}
 	]
