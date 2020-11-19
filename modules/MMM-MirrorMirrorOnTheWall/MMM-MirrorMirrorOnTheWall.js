@@ -67,6 +67,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
    
     if( this.clear )
     {
+       console.log("testing frameeee");
         var row = document.createElement("div");
         row.className = "imgFrame";
         row.setAttribute('id', 'imgFrame');
