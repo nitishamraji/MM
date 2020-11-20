@@ -33,7 +33,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       this.result = payload;
       
       console.log("aws iot payload: " + payload );
-      
+
       var hide = MM.getModules();
             
       hide.enumerate(function(module) {
@@ -77,46 +77,23 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
   },
 
   getDom: function() {
-    wrapper = document.createElement("div");
-    wrapper.className = 'thin large bright';
+
+    var moudleWrapperId = 'onTheWallWrapper';
+
+    var wrapperPrev = document.getElementById( moudleWrapperId );
+
+    if( wrapperPrev ) {
+      wrapperPrev.remove();
+    }
    
-    // if( this.clear )
-    // {
-    //    console.log("testing frameeee");
-    //     var row = document.createElement("div");
-    //     row.className = "imgFrame";
-    //     row.setAttribute('id', 'imgFrame');
-    //     var oImg = document.createElement("img");
-    //     oImg.setAttribute('src', 'modules/test/nit_kav.jpg');
-    //     oImg.setAttribute('height', '1920');
-    //     oImg.setAttribute('width', '1080');
-    //     row.appendChild(oImg);
-    //     wrapper.appendChild(row);
-    // }
-    // else if( )
-    // {
-    //   var elem = document.getElementById("imgFrame");
-    //   if( elem )
-    //   {
-    //     elem.remove();
-    //   }
-    // }
+    wrapper = document.createElement("div");
+    wrapper.id = moudleWrapperId;
+   
 
     if (this.result && !this.clear) {
 
       if (this.result.images) {
-        var main_dir = "/home/pi/MagicMirror-New/MagicMirror/modules/MMM-MirrorMirrorOnTheWall";
-
-        console.log("testing frameeee");
-        var row = document.createElement("div");
-        row.className = "imgFrame";
-        row.setAttribute('id', 'imgFrame');
-        var oImg = document.createElement("img");
-        oImg.setAttribute('src', main_dir + '/nit_kav.jpg');
-        oImg.setAttribute('height', '1920');
-        oImg.setAttribute('width', '1080');
-        row.appendChild(oImg);
-        wrapper.appendChild(row);
+        wrapper = this.createFrame(wrapper);
       }
 
       if (this.result.videoId) {
@@ -142,5 +119,21 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     }
 
     return wrapper;
-  }
+  },
+
+  createFrame: function(wrapper){
+      console.log("testing frameeee");
+      var row = document.createElement("div");
+      row.className = "imgFrame";
+      row.setAttribute('id', 'imgFrame');
+      var oImg = document.createElement("img");
+      oImg.setAttribute('src',  'modules/MMM-MirrorMirrorOnTheWall/nit_kav.jpg');
+      oImg.setAttribute('height', '1920');
+      oImg.setAttribute('width', '1080');
+      row.appendChild(oImg);
+      wrapper.appendChild(row);
+
+      return wrapper;
+  },
+
 });

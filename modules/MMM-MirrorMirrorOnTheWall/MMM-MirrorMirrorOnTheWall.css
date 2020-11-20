@@ -50,3 +50,43 @@
     z-index: 1000;
     background-color: white;
 }
+
+
+
+.mailtable {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+ .colfrom {
+  width: 1px;
+  padding-right: 8px;
+  text-align: left;
+  font-weight: 200;
+  white-space: nowrap;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: left;
+}
+
+ .colsubj {
+  white-space: nowrap;
+  font-size: 20px;
+  text-align: left;
+}
+
+ .coldt {
+  width: 1px;
+  white-space: nowrap;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: right;
+}
+
+.coltm { 
+  width: 1px;
+  white-space: nowrap;
+  font-weight; 300;
+  font-size: 20px;
+  text-align: right;
+}
