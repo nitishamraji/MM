@@ -32,6 +32,9 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
         if ( payload.images || ( module.name.includes("Gmail") && notification != "MODULE" ) ) {
           module.hide();
         }
+        else if ( notification === "MODULE" && !payload.turnOn && ( module.name.includes("Gmail") || module.name.includes("Wall") ) ) {
+          module.hide();
+        }
     });
       
 
@@ -69,7 +72,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
         }
 
         if (module.name === payload.moduleName || payload.moduleName === "all_modules") {
-          if (payload.turnOn && !module.name.includes("Gmail") ) {
+          if (payload.turnOn && !( module.name.includes("Gmail") || module.name.includes("Wall") ) ) {
             if (module.name === self.name ) {
               self.clear = false
               self.updateDom();
