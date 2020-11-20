@@ -108,7 +108,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
         row.className = "imgFrame";
         row.setAttribute('id', 'imgFrame');
         var oImg = document.createElement("img");
-        oImg.setAttribute('src', 'modules/test/nit_kav.jpg');
+        oImg.setAttribute('src', 'nit_kav.jpg');
         oImg.setAttribute('height', '1920');
         oImg.setAttribute('width', '1080');
         row.appendChild(oImg);
