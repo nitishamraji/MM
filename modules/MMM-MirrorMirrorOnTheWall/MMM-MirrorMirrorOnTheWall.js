@@ -34,18 +34,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       
       console.log("aws iot payload: " + payload );
 
-      var hide = MM.getModules();
-            
-      hide.enumerate(function(module) {
-        console.log("enumerate through module: " + module.name);
-        if( module.name.includes("Gmail") ) {
-          module.show();
-        }
-      });
-
       this.updateDom();
-
-      
 
       this.show(1000, function() {
         Log.log(this.name + ' is shown.');
@@ -53,9 +42,24 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     } else if (notification === "MODULE") {
       let self = this
       MM.getModules().enumerate(function(module) {
+
+        if( module.name.includes("gmail") )
+        {
+          if (payload.turnOn) {
+            module.show(1000, function() {
+              Log.log(module.name + ' is shown.');
+            });
+          }
+          else {
+            module.hide(1000, function() {
+              Log.log(module.name + ' is hidden.');
+            });
+          }
+        }
+
         if (module.name === payload.moduleName || payload.moduleName === "all_modules") {
           if (payload.turnOn) {
-            if (module.name === self.name) {
+            if (module.name === self.name ) {
               self.clear = false
               self.updateDom();
             }
