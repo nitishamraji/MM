@@ -28,19 +28,18 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
   socketNotificationReceived: function(notification, payload) {
     console.log(this.name + "received a socket notification:\n" + notification);
 
+    MM.getModules().enumerate(function(module) {
+        if ( this.payload.images || ( module.name.includes("Gmail") && notification != "MODULE" ) ) {
+          module.hide();
+        }
+    });
+      
+
     if (notification === "RESULT") {
       this.clear = false
       this.result = payload;
       
       console.log("aws iot payload: " + payload );
-
-      
-      MM.getModules().enumerate(function(module) {
-        if (this.result.images || ( module.name.includes.("Gmail") && notification != "MODULE" ) ) {
-          module.hide();
-        }
-      });
-      
 
       this.updateDom();
 
