@@ -85,7 +85,12 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     if( wrapperPrev ) {
       wrapperPrev.remove();
     }
-   
+
+    var imgFrameDivPrev = document.getElementById("imgFrame"); 
+    if( imgFrameDivPrev ){
+      imgFrameDivPrev.remove();
+    }
+
     wrapper = document.createElement("div");
     wrapper.id = moudleWrapperId;
    
@@ -123,17 +128,19 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
 
   createFrame: function(wrapper){
       console.log("testing frameeee");
-      var row = document.createElement("div");
-      row.className = "imgFrame";
-      row.setAttribute('id', 'imgFrame');
+      
+      var divImgFrame= document.createElement("div");
+      divImgFrame.className = "imgFrame";
+      divImgFrame.setAttribute('id', 'imgFrame');
+      
       var oImg = document.createElement("img");
       oImg.setAttribute('src',  'modules/MMM-MirrorMirrorOnTheWall/nit_kav.jpg');
       oImg.setAttribute('height', '1920');
       oImg.setAttribute('width', '1080');
-      row.appendChild(oImg);
-      wrapper.appendChild(row);
+      divImgFrame.appendChild(oImg);
 
-      return wrapper;
+      var fullscreenDivContainer = ((document.getElementsByClassName("fullscreen")[0]).children[0]);
+      fullscreenDivContainer.appendChild(divImgFrame);
   },
 
 });
