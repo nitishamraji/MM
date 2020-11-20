@@ -139,9 +139,12 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       oImg.setAttribute('width', '1080');
       divImgFrame.appendChild(oImg);
 
-      var fullscreenDivContainer = ((document.getElementsByClassName("fullscreen")[0]).children[0]);
-      fullscreenDivContainer.style.display = "block";
-      fullscreenDivContainer.appendChild(divImgFrame);
+      // var fullscreenDivContainer = ((document.getElementsByClassName("fullscreen")[0]).children[0]);
+      // fullscreenDivContainer.style.display = "block";
+      // fullscreenDivContainer.appendChild(divImgFrame);
+
+      document.body.insertBefore(divImgFrame, document.body.firstChild);
+
   },
 
 });
