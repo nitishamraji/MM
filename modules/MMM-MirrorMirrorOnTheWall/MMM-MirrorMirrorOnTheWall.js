@@ -40,10 +40,13 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
         Log.log(this.name + ' is shown.');
       });
     } else if (notification === "MODULE") {
-      let self = this
+      let self = this;
+      console.log("test payload moduleName: " + payload.moduleName );
       MM.getModules().enumerate(function(module) {
 
-        if( payload.moduleName.includes("gmail") || payload.moduleName.includes("Gmail") )
+        var isGmailModule = module.name.includes("Gmail");
+
+        if( ( payload.moduleName.includes("gmail") || payload.moduleName.includes("Gmail") ) && isGmailModule )
         {
           console.log("test entered gmail toggle");
           if (payload.turnOn) {
