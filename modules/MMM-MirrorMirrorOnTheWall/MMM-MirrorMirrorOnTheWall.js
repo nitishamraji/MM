@@ -128,7 +128,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
 
   createFrame: function(wrapper){
       console.log("testing frameeee");
-      
+
       var divImgFrame= document.createElement("div");
       divImgFrame.className = "imgFrame";
       divImgFrame.setAttribute('id', 'imgFrame');
@@ -140,6 +140,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       divImgFrame.appendChild(oImg);
 
       var fullscreenDivContainer = ((document.getElementsByClassName("fullscreen")[0]).children[0]);
+      fullscreenDivContainer.style.display = "block";
       fullscreenDivContainer.appendChild(divImgFrame);
   },
 
