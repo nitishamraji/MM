@@ -32,6 +32,8 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       this.clear = false
       this.result = payload;
       
+      console.log("aws iot payload: " + payload );
+      
       var hide = MM.getModules();
             
       hide.enumerate(function(module) {
