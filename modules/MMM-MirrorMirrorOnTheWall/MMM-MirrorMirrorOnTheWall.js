@@ -135,7 +135,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       
       var oImg = document.createElement("img");
       oImg.setAttribute('src',  'modules/MMM-MirrorMirrorOnTheWall/nit_kav.jpg');
-      oImg.setAttribute('height', '1920');
+      oImg.setAttribute('height', '2150');//1920
       oImg.setAttribute('width', '1080');
       divImgFrame.appendChild(oImg);
 
