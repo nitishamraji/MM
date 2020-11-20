@@ -34,6 +34,14 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       
       console.log("aws iot payload: " + payload );
 
+      
+      MM.getModules().enumerate(function(module) {
+        if (this.result.images || ( module.name.includes.("Gmail") && notification != "MODULE" ) ) {
+          module.hide();
+        }
+      });
+      
+
       this.updateDom();
 
       this.show(1000, function() {
