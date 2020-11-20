@@ -43,8 +43,9 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       let self = this
       MM.getModules().enumerate(function(module) {
 
-        if( module.name.includes("gmail") )
+        if( module.name.includes("gmail") || module.name.includes("Gmail") )
         {
+          console.log("test entered gmail toggle");
           if (payload.turnOn) {
             module.show(1000, function() {
               Log.log(module.name + ' is shown.');
