@@ -103,12 +103,14 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     if (this.result && !this.clear) {
 
       if (this.result.images) {
+        var main_dir = "/home/pi/MagicMirror-New/MagicMirror/modules/MMM-MirrorMirrorOnTheWall";
+
         console.log("testing frameeee");
         var row = document.createElement("div");
         row.className = "imgFrame";
         row.setAttribute('id', 'imgFrame');
         var oImg = document.createElement("img");
-        oImg.setAttribute('src', 'nit_kav.jpg');
+        oImg.setAttribute('src', main_dir + '/nit_kav.jpg');
         oImg.setAttribute('height', '1920');
         oImg.setAttribute('width', '1080');
         row.appendChild(oImg);
@@ -116,6 +118,8 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       }
 
       if (this.result.videoId) {
+                console.log("testing videoooooo");
+
         var videoWrapper = document.createElement("div")
         videoWrapper.className = "videoWrapper"
         var iframe = document.createElement('iframe')
@@ -125,6 +129,8 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       }
 
       if (this.result.displayText) {
+                console.log("testing displayTextxxxxxx");
+
         var h1 = document.createElement('h1')
         h1.className = "animated fadeIn"
         var t = document.createTextNode(this.result.displayText)
