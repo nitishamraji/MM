@@ -29,7 +29,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     console.log(this.name + "received a socket notification:\n" + notification);
 
     MM.getModules().enumerate(function(module) {
-        if ( this.payload.images || ( module.name.includes("Gmail") && notification != "MODULE" ) ) {
+        if ( payload.images || ( module.name.includes("Gmail") && notification != "MODULE" ) ) {
           module.hide();
         }
     });
