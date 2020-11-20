@@ -40,6 +40,7 @@ var config = {
 	modules: [
 		{
 			module: "alert",
+			disabled: true
 		},
 		{
 			module: "updatenotification",
