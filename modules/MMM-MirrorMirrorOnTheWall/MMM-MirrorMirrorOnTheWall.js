@@ -43,7 +43,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
       let self = this
       MM.getModules().enumerate(function(module) {
 
-        if( module.name.includes("gmail") || module.name.includes("Gmail") )
+        if( payload.moduleName.includes("gmail") || payload.moduleName.includes("Gmail") )
         {
           console.log("test entered gmail toggle");
           if (payload.turnOn) {
@@ -59,7 +59,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
         }
 
         if (module.name === payload.moduleName || payload.moduleName === "all_modules") {
-          if (payload.turnOn) {
+          if (payload.turnOn && !module.name.includes("Gmail") ) {
             if (module.name === self.name ) {
               self.clear = false
               self.updateDom();
