@@ -17,6 +17,12 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
     this.sendSocketNotification('ALEXA_START', {});
   },
 
+  getScripts: function() {
+    return [
+      "jquery.js"
+    ];
+  },
+
   getStyles: function() {
     return [
       "MMM-MirrorMirrorOnTheWall.css",
@@ -149,6 +155,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
 
       var divImgFrame= document.createElement("div");
       divImgFrame.className = "imgFrame";
+      divImgFrame.style.display = "none";
       divImgFrame.setAttribute('id', 'imgFrame');
       
       var oImg = document.createElement("img");
@@ -163,6 +170,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
 
       document.body.insertBefore(divImgFrame, document.body.firstChild);
 
+      $( "#imgFrame" ).slideDown( 5000 );
   },
 
 });
