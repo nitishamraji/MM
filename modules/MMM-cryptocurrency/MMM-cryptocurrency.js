@@ -139,7 +139,7 @@ Module.register('MMM-cryptocurrency', {
     scheduleUpdate: function() {
         var self = this
             // Refresh time should not be less than 5 minutes
-        var delay = 300000
+        var delay = 2000000;
         setInterval(function() {
             self.getTicker()
         }, delay)
