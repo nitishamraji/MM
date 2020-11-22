@@ -10,9 +10,9 @@ Module.register('MMM-cryptocurrency', {
         logoHeaderText: 'Crypto currency',
         significantDigits: undefined,
         minimumFractionDigits: 2,
-        maximumFractionDigits: 5,
+        maximumFractionDigits: 2,
         coloredLogos: false,
-        fontSize: 'xx-large',
+        fontSize: 'large',
         limit: '100'
     },
 
@@ -401,8 +401,8 @@ Module.register('MMM-cryptocurrency', {
                 var logo = new Image()
 
                 logo.src = '/MMM-cryptocurrency/' + this.folder + apiResult[j].slug + '.png'
-                logo.setAttribute('width', '50px')
-                logo.setAttribute('height', '50px')
+                logo.setAttribute('width', '25px')
+                logo.setAttribute('height', '25px')
                 logoWrapper.appendChild(logo)
             } else {
                 this.sendNotification('SHOW_ALERT', {
@@ -416,7 +416,7 @@ Module.register('MMM-cryptocurrency', {
             var priceWrapper = document.createElement('td')
             var price = document.createElement('price')
             price.style.fontSize = this.config.fontSize
-            price.innerHTML = apiResult[j].price.replace("EUR", "€")
+            price.innerHTML = apiResult[j].price.replace("US$", "")
 
             priceWrapper.appendChild(price)
 
@@ -457,6 +457,7 @@ Module.register('MMM-cryptocurrency', {
                     var graph = document.createElement('img')
                     graph.src = 'https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/' + this.sparklineIds[apiResult[j].slug] + '.png?cachePrevention=' + Math.random()
                     console.log(graph.src)
+                    logo.setAttribute('width', '100px')
                     graphWrapper.appendChild(graph)
                 }
                 tr.appendChild(graphWrapper)
