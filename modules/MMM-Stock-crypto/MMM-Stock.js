@@ -1,14 +1,14 @@
 "use strict";
 
-Module.register("MMM-Stock", {
+Module.register("MMM-Stock-crypto", {
 	result: {},
 	defaults: {
-		updateInterval: 60000,
+		updateInterval: 2000000,
 		fadeSpeed: 1000,
 		companies: ["GOOGL", "YHOO"],
 		currency: "usd",
 		baseURL: "https://www.alphavantage.co/",
-		apikey: "IPWULBT54Y3LHJME"
+		apikey: "Z2AUZ6MDYV2790ER"
 	},
 
 	getStyles: function() {
@@ -22,8 +22,8 @@ Module.register("MMM-Stock", {
 	start: function() {
 		this.getStocks();
 		if(this.config.currency.toLowerCase() != "usd"){
-			this.getExchangeRate();
-		}
+		// 	this.getExchangeRate();
+		// }
 		this.scheduleUpdate();
 	},
 
@@ -87,9 +87,9 @@ Module.register("MMM-Stock", {
 		var that = this;
 		setInterval(function() {
 			that.getStocks();
-			if(this.config.currency.toLowerCase() != "usd"){
-				that.getExchangeRate();
-			}
+			// if(this.config.currency.toLowerCase() != "usd"){
+			// 	that.getExchangeRate();
+			// }
 		}, loadTime);
 	},
 

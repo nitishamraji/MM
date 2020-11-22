@@ -144,23 +144,30 @@ var config = {
 			}
 		},
 		{
-			module: "MMM-cryptocurrency",
-			position: "bottom_left",
-			config: {
-				//apikey: '1234-5678-9009-8765-4321',
-				apikey: 'c37b5d0b-203c-4230-a242-84109c7bbf96',
-				currency: ['bitcoin', 'ethereum', 'litecoin', 'cardano'],
-				conversion: 'USD',
-				headers: ['change24h', 'change1h', 'change7d'],
-				displayType: 'logoWithChanges',
-				showGraphs: true
-			}
-		},
+		// 	module: "MMM-cryptocurrency",
+		// 	position: "bottom_left",
+		// 	config: {
+		// 		//apikey: '1234-5678-9009-8765-4321',
+		// 		apikey: 'c37b5d0b-203c-4230-a242-84109c7bbf96',
+		// 		currency: ['bitcoin', 'ethereum', 'litecoin', 'cardano'],
+		// 		conversion: 'USD',
+		// 		headers: ['change24h', 'change1h', 'change7d'],
+		// 		displayType: 'logoWithChanges',
+		// 		showGraphs: true
+		// 	}
+		// },
 		{
     		module: "MMM-Stock",
     		position: "bottom_right",
     		config: {
     			companies: ["MSFT", "GOOG", "ORCL", "FB", "AAPL"]
+    		}
+		},
+		{
+    		module: "MMM-Stock-crypto",
+    		position: "bottom_left",
+    		config: {
+    			companies: ["SPY", "QQQ", "IWM", "XLF", "GLD"]
     		}
 		}
 	]

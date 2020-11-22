@@ -3,7 +3,7 @@
 Module.register("MMM-Stock", {
 	result: {},
 	defaults: {
-		updateInterval: 60000,
+		updateInterval: 2000000,
 		fadeSpeed: 1000,
 		companies: ["GOOGL", "YHOO"],
 		currency: "usd",
@@ -21,9 +21,9 @@ Module.register("MMM-Stock", {
 
 	start: function() {
 		this.getStocks();
-		if(this.config.currency.toLowerCase() != "usd"){
-			this.getExchangeRate();
-		}
+		// if(this.config.currency.toLowerCase() != "usd"){
+		// 	this.getExchangeRate();
+		// }
 		this.scheduleUpdate();
 	},
 
@@ -87,9 +87,9 @@ Module.register("MMM-Stock", {
 		var that = this;
 		setInterval(function() {
 			that.getStocks();
-			if(this.config.currency.toLowerCase() != "usd"){
-				that.getExchangeRate();
-			}
+			// if(this.config.currency.toLowerCase() != "usd"){
+			// 	that.getExchangeRate();
+			// }
 		}, loadTime);
 	},
 
