@@ -164,7 +164,7 @@ var config = {
     		}
 		},
 		{
-    		module: "MMM-Stock-crypto",
+    		module: "MMM-Stock-crypto", //Z2AUZ6MDYV2790ER
     		position: "bottom_left",
     		config: {
     			companies: ["SPY", "QQQ", "IWM", "XLF", "GLD"]
