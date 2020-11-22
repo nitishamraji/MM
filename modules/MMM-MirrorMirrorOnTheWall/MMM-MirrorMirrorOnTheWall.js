@@ -18,6 +18,7 @@ Module.register('MMM-MirrorMirrorOnTheWall', {
   },
 
   getScripts: function() {
+    //jquery-3.5.1.min.js
     return [
       "jquery.js"
     ];
