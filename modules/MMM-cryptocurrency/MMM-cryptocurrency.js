@@ -221,6 +221,7 @@ Module.register('MMM-cryptocurrency', {
 
     socketNotificationReceived: function(notification, payload) {
         if (notification === 'got_result') {
+            console.log("crypto payload: " + payload);
             this.result = this.getWantedCurrencies(this.config.currency, payload)
             this.updateDom()
         }
