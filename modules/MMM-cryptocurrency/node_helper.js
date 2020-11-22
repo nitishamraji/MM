@@ -13,9 +13,11 @@ module.exports = NodeHelper.create({
   },
 
   getTickers: function (url) {
-    var self = this
+    var self = this;
+    console.log("getting crypto with url: " url);
     request({url: url, method: 'GET'}, function (error, response, body) {
       if (!error && response.statusCode == 200) {
+        console.log("crypto with url: " JSON.parse(body));
         self.sendSocketNotification('got_result', JSON.parse(body))
       }
     })
