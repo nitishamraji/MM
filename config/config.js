@@ -143,7 +143,7 @@ var config = {
 				playSound: false
 			}
 		},
-		{
+		// {
 		// 	module: "MMM-cryptocurrency",
 		// 	position: "bottom_left",
 		// 	config: {
