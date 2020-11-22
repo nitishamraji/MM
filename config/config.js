@@ -155,6 +155,13 @@ var config = {
 				displayType: 'logoWithChanges',
 				showGraphs: true
 			}
+		},
+		{
+    		module: "MMM-Stock",
+    		position: "bottom_right",
+    		config: {
+    			companies: ["MSFT", "GOOG", "ORCL", "FB", "AAPL"]
+    		}
 		}
 	]
 };
