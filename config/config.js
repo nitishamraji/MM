@@ -44,7 +44,8 @@ var config = {
 		},
 		{
 			module: "updatenotification",
-			position: "top_bar"
+			position: "top_bar",
+			disabled: true
 		},
 		{
 			module: "clock",
@@ -72,7 +73,8 @@ var config = {
 			config: {
 				location: "New York",
 				locationID: "4887398", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "979035e38dd95d5467ab3a2ebd5b2d01"
+				appid: "979035e38dd95d5467ab3a2ebd5b2d01",
+				units: "imperial",
 			}
 		},
 		{
@@ -82,7 +84,8 @@ var config = {
 			config: {
 				location: "New York",
 				locationID: "4887398", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city.
-				appid: "979035e38dd95d5467ab3a2ebd5b2d01"
+				appid: "979035e38dd95d5467ab3a2ebd5b2d01",
+				units: "imperial",
 			}
 		},
 		{
@@ -160,7 +163,7 @@ var config = {
     		module: "MMM-Stock",
     		position: "bottom_right",
     		config: {
-    			companies: ["MSFT", "GOOG", "ORCL", "FB", "AAPL"]
+    			companies: ["MSFT", "GOOG", "FB", "AAPL"]
     		}
 		},
 		// {
