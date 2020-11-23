@@ -86,6 +86,7 @@ Module.register("MMM-GmailFeed", {
 		wrapper.appendChild(table);
 
 		table.classList.add("mailtable");
+		table.classList.add("bright");
 		if (this.errorData) {
 			table.innerHTML = this.errorData;
 			return table;;
@@ -129,7 +130,7 @@ Module.register("MMM-GmailFeed", {
 
 	getTableRow: function (jsonObject) {
 		var row = document.createElement("tr");
-		row.classList.add("normal");
+		row.classList.add("bright");
 
 		var fromNode = document.createElement("td");
 		var subjNode = document.createElement("td");
